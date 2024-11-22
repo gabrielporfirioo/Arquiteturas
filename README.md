@@ -34,16 +34,12 @@ Cada implementação oferece as mesmas funcionalidades, mas utiliza uma arquitet
  - Responsabilidades bem definidas para cada camada
  - Facilidade de manutenção e teste
 
-## 🛠️ Tecnologias Utilizadas
-
-- Linguagem: Python
-- Cada arquitetura pode utilizar bibliotecas específicas para sua implementação
 
 ## 🚀 Como Executar
 
 ### Pré-requisitos
 - Python 3.x instalado
-- Dependências específicas de cada arquitetura (verificar requirements.txt em cada pasta)
+- Cada arquitetura pode utilizar bibliotecas específicas para sua implementação
 
 ### Instalação
 
